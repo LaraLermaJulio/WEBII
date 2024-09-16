@@ -1,0 +1,17 @@
+body {
+    background: white url("images/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    padding-top: 10rem;
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+
+li a {
+    color: white;
+}
